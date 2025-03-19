@@ -1,1 +1,3 @@
-# processamento_linguagem_natural
+# Ferramentas utilizadas para processamento de Linguagem Natural (PLN)
+
+NLTK (Natural Language Toolkit) é uma biblioteca em Python desenvolvida para o processamento de linguagem natural (PLN). Ela disponibiliza diversas ferramentas para manipulação e análise de textos, incluindo tokenização, stemming, lematização, análise sintática e extração de entidades nomeadas. Além disso, o NLTK oferece corpora linguísticos e algoritmos para tarefas como classificação de texto, modelagem de linguagem e análise de sentimentos. Essa biblioteca é amplamente utilizada em pesquisas e no desenvolvimento de aplicações que envolvem a compreensão e geração de linguagem natural.
